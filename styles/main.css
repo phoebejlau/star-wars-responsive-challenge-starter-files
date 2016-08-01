@@ -1,0 +1,17 @@
+.image {
+  width: 100%;
+}
+
+header {
+  background-color: #eebb44;
+  margin-bottom:40px;
+}
+
+.card {
+  border:1px solid lightgrey;
+  margin-bottom:20px;
+}
+
+.content {
+  padding:10px 20px;
+}
